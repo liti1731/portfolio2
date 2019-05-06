@@ -1,0 +1,50 @@
+
+body{
+	background-color: #151515;
+	font-family: 'Open Sans', sans-serif; 
+	color:#DDDDDD ;
+}
+h1,h2,h3,h4{
+	font-weight: 300;
+	letter-spacing: 5px;
+	color:orange ;
+	font-size: 25px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.menu{  
+	list-style: none;
+	overflow: hidden;
+	font-weight: 300;
+	letter-spacing: 3px;
+	font-family: 'Quicksand', sans-serif;
+    padding-top: 1%;
+}
+.menu li{
+	float: right;
+	padding-right:3% ; 
+}
+.menu li a{
+	text-decoration: none;
+	color: #DDDDDD ;
+}
+.site-container{
+    margin:5%;
+    width: 94%;
+    overflow: hidden;
+}
+	
+
+.site-container img{
+	
+    
+}
+.main{
+	float: left;
+}
+.main p{
+	
+	display: inline-block;
+	width: 40%;
+	margin-right: 10%;
+}
